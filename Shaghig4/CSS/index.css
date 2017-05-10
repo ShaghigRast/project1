@@ -1,0 +1,11 @@
+body {background-image:url("../Images/Summer.jpg");
+background-size: cover;
+
+}
+.div1 {background-color: rgba(95, 138, 160, 0.64);
+    padding: 100px;
+}
+h1 {font-size: 150px;
+    font-family: monospace;
+    font-weight: 5000;
+    color: rgba(179, 236, 157, 0.56);}
